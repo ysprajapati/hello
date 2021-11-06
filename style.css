@@ -1,0 +1,13 @@
+h1
+{    text-align: center;  
+    background-color: orange;
+      width: auto;
+      height: auto;
+      padding: 20px;
+  }
+  body
+  {
+    background-color: rgb(180, 173, 173);
+    text-align: left;
+    
+  } 
